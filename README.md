@@ -1,8 +1,8 @@
-# Credit Card README
+# Reflective Credit Card README
 
 ## Introduction
 
-Welcome to the My Credit Card project! This project aims to provide a sleek and modern user interface for credit card components using the popular glassmorphic design trend. The glassmorphic design creates a frosted glass-like effect, enhancing the visual appeal of the credit card interface.
+Welcome to the Reflective Credit Card project! This project aims to provide a sleek and modern user interface for credit card components using the popular glassmorphic design trend. The glassmorphic design creates a frosted glass-like effect, enhancing the visual appeal of the credit card interface.
 
 ## Features
 
